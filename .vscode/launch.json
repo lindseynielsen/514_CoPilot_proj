@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Shapes",
+            "request": "launch",
+            "mainClass": "CS150.Shapes",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColorBlindness",
+            "request": "launch",
+            "mainClass": "CS150.ColorBlindness",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BakerHelper",
+            "request": "launch",
+            "mainClass": "CS150.BakerHelper",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trivia",
+            "request": "launch",
+            "mainClass": "CS150.Trivia",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstPrint",
+            "request": "launch",
+            "mainClass": "CS150.FirstPrint",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2",
+            "request": "launch",
+            "mainClass": "CS150.Lab2",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab4",
+            "request": "launch",
+            "mainClass": "CS150.Lab4",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        }
+    ]
+}
