@@ -1,4 +1,4 @@
-package CS150;
+package cs150;
 
 /* 
 Part 1: First Programmer

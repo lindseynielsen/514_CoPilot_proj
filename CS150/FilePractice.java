@@ -1,4 +1,4 @@
-package CS150;
+package cs150;
 
 /*
  * Step 1 - Declare Class Variables

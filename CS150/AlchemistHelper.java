@@ -1,4 +1,4 @@
-package CS150;
+package cs150;
 
 /**
  * <h1>  Traveling Alchemist the Almost MUD </h1>
