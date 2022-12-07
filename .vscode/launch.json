@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "cs165.Recursion",
+            "projectName": "514_CoPilot_proj_1df9bf6f"
+        },
+        {
+            "type": "java",
             "name": "Launch Shapes",
             "request": "launch",
             "mainClass": "CS150.Shapes",
